@@ -15,7 +15,6 @@ finally:
 
 def english_word():
     global current_card
-    current_card = random.choice(data)
     canvas.itemconfig(word, text=current_card["English"], fill="white")
     canvas.itemconfig(language, text="English", fill="white")
     canvas.itemconfig(background, image=back_image)
