@@ -1,6 +1,6 @@
 # Quizlet-Model
 This is a replication of a popular language learning app (Quizlet) written in Python.
 
-Technologies: Python, Tkinter, Math
+Technologies: Python, Tkinter, Pandas
 
-Principles: OPP, DRY, KISS
+Principles: DRY, KISS
